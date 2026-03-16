@@ -9,6 +9,13 @@ JobTrack is designed to simplify the job searching process. Users can **register
 
 The platform also displays **recently posted jobs at the top**, making it easier for users to find the latest opportunities. The application uses **Day.js** to manage and format job posting dates efficiently.
 
+## 🚀 Live Demo
+
+Check out the live projects here:
+
+- **JobTrack (Job Portal)**: [Live Demo](https://job-track-kappa.vercel.app/)
+
+
 ## 🚀 Features
 
 * 🔐 **Authentication System** – User **Register, Login, and Logout**
